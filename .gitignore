@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 _build/*
+node_modules/*
+.ipynb_checkpoints/*

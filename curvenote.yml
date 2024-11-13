@@ -1,0 +1,42 @@
+version: 1
+project:
+  title: OSPO Playbook
+  description: ''
+  authors:
+    - userId: 67PklMWTHTYA8zfeRG1XdcuXt453
+      nameParsed:
+        literal: Simon Goring
+        given: Simon
+        family: Goring
+      name: Simon Goring
+      corresponding: false
+      roles: []
+      affiliations: []
+      id: contributors-generated-uid-0
+    - userId: GCCahAzdDRSyXdTr5BrVjY4UOTx1
+      nameParsed:
+        literal: Allison Kittinger
+        given: Allison
+        family: Kittinger
+      name: Allison Kittinger
+      corresponding: false
+      roles: []
+      affiliations: []
+      id: contributors-generated-uid-1
+  affiliations:
+    - id: 39f1aee9-aaf1-460d-b4bc-f72e2a1fcfa0
+      name: 39f1aee9-aaf1-460d-b4bc-f72e2a1fcfa0
+  id: duMFBNlmr4FklwuQ8NqR
+  remote: duMFBNlmr4FklwuQ8NqR
+  keywords:
+    - open source software
+  subject: Searchable Open Source Software Database
+site:
+  title: OSPO Playbook
+  options:
+    logo_text: OSPO Playbook
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains: ['simongoring-ospo.curve.space']
