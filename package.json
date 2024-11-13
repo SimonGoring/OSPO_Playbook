@@ -1,0 +1,14 @@
+{
+  "name": "ospo_playbook",
+  "version": "1.0.0",
+  "description": "Curvenote Location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "curvenote": "^0.11.0"
+  }
+}
