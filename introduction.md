@@ -66,4 +66,3 @@ Over the next few months we will be releasing blog posts detailing how this deci
 - floppy disc by Mukholifah from [Noun Project](https://thenounproject.com/browse/icons/term/floppy-disc/) (CC BY 3.0)
 - article by Slameticon from [Noun Project](https://thenounproject.com/browse/icons/term/article/) (CC BY 3.0)
 - Community by Best Moms from [Noun Project](https://thenounproject.com/browse/icons/term/community/) (CC BY 3.0)
-
